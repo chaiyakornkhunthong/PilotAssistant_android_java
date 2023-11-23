@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1065025884006",
+    "firebase_url": "https://ev-5d6b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ev-5d6b7",
+    "storage_bucket": "ev-5d6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065025884006:android:1c221806ff5f0a394e42a7",
+        "android_client_info": {
+          "package_name": "com.chaiyakornkhunthong.pilotassistant_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065025884006-anvlssegc8q24pu0l4kr797imtk8usd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhAKfqDQLl9a93_fQfsEScaEXQhQVmlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065025884006-anvlssegc8q24pu0l4kr797imtk8usd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065025884006-dfp9i7umoujru2uqefebg74fvempd3ad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pilotassis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065025884006:android:db55e73261f4614e4e42a7",
+        "android_client_info": {
+          "package_name": "com.example.pilotassis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065025884006-g7mh8314vk8jk38d2vb851b24r5s053u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pilotassis",
+            "certificate_hash": "f25963f7a7cbebd4a9dd9a316dc5b596c200d1f3"
+          }
+        },
+        {
+          "client_id": "1065025884006-anvlssegc8q24pu0l4kr797imtk8usd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhAKfqDQLl9a93_fQfsEScaEXQhQVmlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065025884006-anvlssegc8q24pu0l4kr797imtk8usd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065025884006-dfp9i7umoujru2uqefebg74fvempd3ad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pilotassis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
